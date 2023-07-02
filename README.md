@@ -1,2 +1,2 @@
 # pitchforkDatabase
-Databse from pitchfork
+Database from pitchfork
