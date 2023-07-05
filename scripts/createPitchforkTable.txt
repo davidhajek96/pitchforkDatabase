@@ -1,0 +1,20 @@
+CREATE TABLE pitchfork (
+	artist varchar(200),
+	album varchar(200),
+	reviewauthor text,
+	score real,
+	releaseyear int,
+	reviewdate date,
+	recordlabel varchar(200),
+	genre varchar(50),
+	danceability real,
+	energy real,
+	key real,
+	loudness real,
+	speechiness real,
+	acousticness real,
+	instrumentalness real,
+	liveness real,
+	valence real,
+	tempo real
+);
